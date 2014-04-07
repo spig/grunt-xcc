@@ -1,4 +1,4 @@
 grunt-xcc
 =========
 
-Grunt task 
+Grunt task to execute a specific xquery main module that acts like a qconsole for the command line.
